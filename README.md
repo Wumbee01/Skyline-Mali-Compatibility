@@ -7,3 +7,5 @@ update regularly I might remove the game so be warned
 
 ***The description is mandatory***
 
+***See the read online version [here](https://github.com/fake-dyno/Wumbee-s_Mali_Compatibility_List)***
+
