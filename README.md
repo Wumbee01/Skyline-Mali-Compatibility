@@ -1,4 +1,7 @@
 ### [Skyline's](https://github.com/skyline-emu/skyline) Mali Compatibility List
+
+***This version is discontinued, see online version***
+
 This is a lil compatibility list made by Wumbee exept its mali exclusive (heh)
 You can nab the latest version from the releases tab
 
@@ -7,7 +10,7 @@ update regularly I might remove the game so be warned
 
 ***The description is mandatory***
 
-# Fake-dyno's read online edition
+# Hakureii's read online edition
 
-***See the read online version [here](https://github.com/fake-dyno/Wumbee-s_Mali_Compatibility_List)***
+***See the read online version [here](https://github.com/hakureii/compat-list-mali)***
 
